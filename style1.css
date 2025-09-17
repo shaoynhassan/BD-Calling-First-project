@@ -1,0 +1,53 @@
+body{
+    background-color:aliceblue;
+    margin: 0%;
+    padding: 0%;
+}
+div{
+display: flex;
+justify-content: space-between;
+}
+div>ul{
+    list-style: none;
+    margin: 5px;
+    padding: 10px;
+    
+}
+div>ul>li{
+    display: inline-block;
+    margin: 10px 30px 10px 10px;
+    
+}
+
+.a{
+    margin: 0%;
+    padding: 0%;
+}
+div>img{
+    height: 450px;
+    width: 1255px;
+}
+h1{
+    text-align: center;
+}
+.b{
+    gap: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.d{
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: ;
+}
+.e{
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+.butt{
+    margin-right: 200px;
+    margin-left: 200px;
+
+}
